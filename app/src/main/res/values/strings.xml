@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="D0">0</string>
+    <string name="D1">1</string>
+    <string name="D2">2</string>
+    <string name="D3">3</string>
+    <string name="D4">4</string>
+    <string name="D5">5</string>
+    <string name="D6">6</string>
+    <string name="D7">7</string>
+    <string name="D8">8</string>
+    <string name="D9">9</string>
+    <string name="S_negative">+/-</string>
+    <string name="S_dot">.</string>
+    <string name="S_equal">=</string>
+    <string name="S_add">+</string>
+    <string name="S_substract">-</string>
+    <string name="S_multi">X</string>
+    <string name="S_divide">/</string>
+    <string name="S_square">^2</string>
+    <string name="S_root">2√</string>
+    <string name="S_mod">%</string>
+    <string name="second_input">0.0</string>
+    <string name="first_input">0</string>
+    <string name="App">Calculator</string>
+    <string name="clear">Clr</string>
+    <string name="s_back">⌫</string>
+</resources>
